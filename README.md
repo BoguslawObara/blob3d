@@ -1,5 +1,5 @@
 # blob3d
-2d blob detector<br/>
+3d blob detector<br/>
 
 | INPUT  | OUTPUT |
 | ------------- | ------------- |

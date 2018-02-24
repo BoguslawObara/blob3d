@@ -27,3 +27,12 @@ If you find this code useful in your research and development, please consider c
         year        = {2010}
     }
 
+    @article{Roeder2010,
+        author      = {Adrienne H. K. Roeder and Vijay Chickarmane and Alexandre Cunha and Boguslaw Obara and B. S. Manjunath and Elliot M. Meyerowitz},
+        title       = {Variability in the control of cell division underlies sepal epidermal patterning in {A}rabidopsis thaliana},
+        journal     = {PLoS Biology},
+        volume      = {8},
+        number      = {5},
+        pages       = {e1000367},
+        year        = {2010}
+    }

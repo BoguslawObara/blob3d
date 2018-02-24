@@ -1,9 +1,9 @@
 # blob3d
 3d blob detector<br/>
 
-| INPUT  | OUTPUT |
+| INPUT | OUTPUT |
 | ------------- | ------------- |
-| <img src="https://github.com/BoguslawObara/blob3d/blob/master/im/arabidopsis.png" width="250">  | <img src="https://github.com/BoguslawObara/blob3d/blob/master/im/arabidopsis_b.png" width="250"> |
+| <img src="https://github.com/BoguslawObara/blob3d/blob/master/im/arabidopsis.png" width="250"> | <img src="https://github.com/BoguslawObara/blob3d/blob/master/im/arabidopsis_b.png" width="250"> |
 
 If you find this code useful in your research and development, please consider citing:
 
@@ -15,5 +15,15 @@ If you find this code useful in your research and development, please consider c
         number      = {3},
         pages       = {391-402},
         year        = {2013}
+    }
+
+    @article{Piedrahita2010,
+        author      = {Diego Piedrahita and Israel Hernandez and Alejandro Lopez-Tobon and Diego Alzate and Frank LaFerla and Beverly Davidson and Dmitry Fedorov and Boguslaw Obara and B. S. Manjunath and Kenneth Kosik and Gallego-Gomez Juan Carlos and Cardona-Gomez Gloria Patricia},
+        title       = {Silencing of {CDK5} reduces neurofibrillary tangles in transgenic {A}lzheimers mice},
+        journal     = {The Journal of Neuroscience},
+        volume      = {30},
+        number      = {42},
+        pages       = {13966-13976},
+        year        = {2010}
     }
 
